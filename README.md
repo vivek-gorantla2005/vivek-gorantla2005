@@ -135,7 +135,7 @@ Features
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-gorantla-2005&theme=tokyo-night"/>
 </p>
 
 ---
