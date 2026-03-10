@@ -163,7 +163,7 @@ Features
 # 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vivek-gorantla2005&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
