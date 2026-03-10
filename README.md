@@ -14,11 +14,11 @@ Software Engineer • System Design Enthusiast • AI Builder
 
 💡 I build **scalable backend systems, AI-powered developer tools, and real-time platforms**.
 
-- 🔭 Currently building **AI Website Builder Platforms**
-- ⚙️ Designing **Distributed Systems**
-- 🧠 Exploring **AI Agents + Tool Calling**
-- 📡 Love **Real-time architectures**
-- 🚀 Goal: Build systems that scale to **millions of users**
+- Currently building **AI Website Builder Platforms**
+- Designing **Distributed Systems**
+- Exploring **AI Agents + Tool Calling**
+- Love **Real-time architectures**
+- Goal: Build systems that scale to **millions of users**
 
 ---
 
@@ -78,7 +78,7 @@ Software Engineer • System Design Enthusiast • AI Builder
 
 # 🏗 Featured Projects
 
-## 🚖 Ride Sharing Platform
+## Ride Sharing Platform
 
 Scalable ride booking system built with **clean architecture and design patterns**.
 
@@ -92,7 +92,7 @@ Features
 
 ---
 
-## 🤖 AI Website Builder
+## AI Website Builder
 
 AI platform that generates **React + Tailwind applications from prompts**.
 
@@ -105,7 +105,7 @@ Features
 
 ---
 
-## 💬 Real-Time Chat System
+## Real-Time Chat System
 
 WebSocket-based scalable chat system.
 
@@ -118,7 +118,7 @@ Features
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -132,7 +132,7 @@ Features
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-gorantla2005&theme=tokyo-night"/>
@@ -140,7 +140,7 @@ Features
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -148,7 +148,7 @@ Features
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -160,7 +160,7 @@ Features
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=vivek-gorantla2005&label=Profile%20views&color=0e75b6&style=flat" />
